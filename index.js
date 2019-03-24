@@ -18,6 +18,6 @@ var lowercase = 'hello!'
 function sayHiToGrandma(lowercase) {
   lowercase.toLowerCase() === lowercase
   return "I can't hear you!"
-  uppercase.toUpperCase() === uppercase
+  lowercase.toUpperCase() === lowercase
   return "YES INDEED!"
 }
